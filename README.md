@@ -1,7 +1,7 @@
-Hi! My name is Miftahur Rizki 😄
+Hi! My name is Miftah 👋
 =======================================================================================================================================
 
-🌍  I am a Data Analyst based in Bandung, Indonesia.
+🌍  Just a random guy who enjoys diving into data.
 <br/>
 
 ### Skills
