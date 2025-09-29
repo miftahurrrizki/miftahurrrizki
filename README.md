@@ -1,7 +1,6 @@
 # Hi! My name is Miftah 👋
 
-🌍 Just a random guy who enjoys diving into data.  
-💡 Always open to learn, build, and share insights.  
+🌍 Just a random guy who enjoys diving into data. 
 
 ---
 
