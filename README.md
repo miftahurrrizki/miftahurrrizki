@@ -11,7 +11,7 @@ Check out my personal website 👉 [miftahurrizki.vercel.app](https://miftahurri
 
 ### 🛠️ Skills
 
-[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,mysql,azure,tableau,pytorch)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,mysql,azure,gcp,pytorch,opencv)](https://skillicons.dev)  
 [![My Skills](https://skillicons.dev/icons?i=figma,ai,html,css,js)](https://skillicons.dev)  
 
 ---
